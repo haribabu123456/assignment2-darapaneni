@@ -17,3 +17,11 @@ The Directions from Reagan Washington (DCA) Airport
 4. Slight right onto the ramp to GW Parkway North/Washington/I-395
 5. Merge onto George Washington Pkwy
 6. Use the right lane to merge onto I-395 N via the ramp to Washington
+
+ List of other locations around the **American Museum of Natural History** :
+
+ * Central Park.
+ * The Wild West of the Tecumseh Playground
+ * The Bow Bridge
+ * Hotel Belleclaire
+ * Belvedere Castle
