@@ -54,6 +54,8 @@ The Directions from Reagan Washington (DCA) Airport
 
   ***
 
+### section for Code Fencing
+
   > How do I know what is the value of a rejected promisse?
 
   <https://stackoverflow.com/questions/73642192/how-do-i-know-what-is-the-value-of-a-rejected-promisse>
