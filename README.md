@@ -57,3 +57,19 @@ The Directions from Reagan Washington (DCA) Airport
   > How do I know what is the value of a rejected promisse?
 
   <https://stackoverflow.com/questions/73642192/how-do-i-know-what-is-the-value-of-a-rejected-promisse>
+
+
+```
+  const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+
+```
+
+<https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
