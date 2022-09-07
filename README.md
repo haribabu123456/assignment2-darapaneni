@@ -28,3 +28,16 @@ The Directions from Reagan Washington (DCA) Airport
  * Belvedere Castle
 
 [AboutMe](https://github.com/haribabu123456/assignment2-darapaneni/blob/d88aa91469a3d9ac8ba611f4b3165930cef13a28/AboutMe.md)
+
+
+***
+####Cities and Locations 
+
+ This table describes about the locations which are famous to stay and visit.
+
+| city name | location            | time |
+| --------- | --------            | ---- |
+| Guntur    | Mirchi yard         | 2 days |
+| Vijayawada| Kanaka Durga Temple | 1 days |
+| Delhi     | Taj mahal           | 5 days |
+| Hyderabad  | Charminar          | 1 days |
