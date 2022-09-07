@@ -44,3 +44,12 @@ The Directions from Reagan Washington (DCA) Airport
  
 
  ***
+
+
+ ### section for pithy quotes
+  
+  > May the Force be with you.-*star wars*
+
+  > No one can make you feel inferior without your consent.-*Eleanor Roosevelt*
+
+  ***
