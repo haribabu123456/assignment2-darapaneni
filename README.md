@@ -75,3 +75,6 @@ console.log(strippedString);
 ```
 
 <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
+
+
+***
