@@ -53,3 +53,7 @@ The Directions from Reagan Washington (DCA) Airport
   > No one can make you feel inferior without your consent.-*Eleanor Roosevelt*
 
   ***
+
+  > How do I know what is the value of a rejected promisse?
+
+  <https://stackoverflow.com/questions/73642192/how-do-i-know-what-is-the-value-of-a-rejected-promisse>
