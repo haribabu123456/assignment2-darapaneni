@@ -41,3 +41,6 @@ The Directions from Reagan Washington (DCA) Airport
 | Vijayawada| Kanaka Durga Temple | 1 days |
 | Delhi     | Taj mahal           | 5 days |
 | Hyderabad  | Charminar          | 1 days |
+ 
+
+ ***
